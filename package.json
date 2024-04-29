@@ -1,0 +1,16 @@
+{
+  "name": "unreal",
+  "version": "1.0.0",
+  "description": "made by xoui osnium all the nerds",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tomphttp/bare-server-node": "^2.0.3",
+    "express": "^4.19.2"
+  }
+}
